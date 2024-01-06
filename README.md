@@ -1,2 +1,2 @@
-# merge-con-practice
+# third-branch
 Git merge conflict resolution practice
