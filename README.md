@@ -1,2 +1,2 @@
-# third-branch
+# fourth-branch
 Git merge conflict resolution practice
