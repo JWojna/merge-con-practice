@@ -1,2 +1,2 @@
-# merge-con-practice
+# second-branch
 Git merge conflict resolution practice
